@@ -7,3 +7,8 @@
 	path = OCA/openupgradelib
 	url = git@github.com:OCA/openupgradelib.git
 	branch = master
+
+[submodule "ingadhoc/odoo-argentina-ee"]
+	path = ingadhoc/odoo-argentina-ee
+	url = git@github.com:ingadhoc/odoo-argentina-ee.git
+	branch = 13.0
