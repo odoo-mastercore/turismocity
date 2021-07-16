@@ -22,3 +22,8 @@
 	path = ingadhoc/account-financial-tools
 	url = git@github.com:ingadhoc/account-financial-tools.git
 	branch = 13.0
+
+[submodule "oca/web"]
+	path = oca/web
+	url = git@github.com:oca/web.git
+	branch = 13.0
