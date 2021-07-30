@@ -27,3 +27,8 @@
 	path = oca/web
 	url = git@github.com:oca/web.git
 	branch = 13.0
+
+[submodule "oca/contract"]
+	path = oca/contract
+	url = git@github.com:oca/contract.git
+	branch = 13.0
