@@ -37,3 +37,8 @@
 	path = odoo-mastercore/turismocity_addons
 	url = git@github.com:odoo-mastercore/turismocity_addons.git
 	branch = 13.0
+
+[submodule "odoo-mastercore/account_addons"]
+	path = odoo-mastercore/account_addons
+	url = git@github.com:odoo-mastercore/account_addons.git
+	branch = 13.0
