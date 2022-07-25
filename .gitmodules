@@ -20,7 +20,7 @@
 
 [submodule "ingadhoc/account-financial-tools"]
 	path = ingadhoc/account-financial-tools
-	url = git@github.com:ingadhoc/account-financial-tools.git
+	url = git@github.com:rhe-mastercore/account-financial-tools.git
 	branch = 13.0
 
 [submodule "oca/web"]
