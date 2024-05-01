@@ -1,44 +1,44 @@
 [submodule "ingadhoc/account-payment"]
 	path = ingadhoc/account-payment
-	url = git@github.com:ingadhoc/account-payment.git
-	branch = 13.0
+	url = git@github.com:odoo-mastercore/account-payment.git
+	branch = 16.0
 
 [submodule "OCA/openupgradelib"]
 	path = OCA/openupgradelib
 	url = git@github.com:OCA/openupgradelib.git
-	branch = master
+	branch = 16.0
 
 [submodule "ingadhoc/odoo-argentina-ee"]
 	path = ingadhoc/odoo-argentina-ee
 	url = git@github.com:ingadhoc/odoo-argentina-ee.git
-	branch = 13.0
+	branch = 16.0
 
 [submodule "ingadhoc/odoo-argentina"]
 	path = ingadhoc/odoo-argentina
 	url = git@github.com:ingadhoc/odoo-argentina.git
-	branch = 13.0
+	branch = 16.0
 
 [submodule "ingadhoc/account-financial-tools"]
 	path = ingadhoc/account-financial-tools
-	url = git@github.com:rhe-mastercore/account-financial-tools.git
-	branch = 13.0
+	url = git@github.com:ingadhoc/account-financial-tools.git
+	branch = 16.0
 
 [submodule "oca/web"]
 	path = oca/web
 	url = git@github.com:oca/web.git
-	branch = 13.0
+	branch = 16.0
 
 [submodule "odoo-mastercore/turismocity_addons"]
 	path = odoo-mastercore/turismocity_addons
 	url = git@github.com:odoo-mastercore/turismocity_addons.git
-	branch = 13.0
+	branch = 16.0
 
 [submodule "OCA/account-financial-tools"]
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
-	branch = 13.0
+	branch = 16.0
 
 [submodule "OCA/brand"]
 	path = OCA/brand
 	url = git@github.com:OCA/brand.git
-	branch = 13.0
+	branch = 16.0
