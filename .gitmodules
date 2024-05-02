@@ -1,6 +1,6 @@
 [submodule "ingadhoc/account-payment"]
 	path = ingadhoc/account-payment
-	url = git@github.com:odoo-mastercore/account-payment.git
+	url = git@github.com:ingadhoc/account-payment.git
 	branch = 16.0
 
 [submodule "OCA/openupgradelib"]
