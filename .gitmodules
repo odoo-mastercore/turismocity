@@ -47,3 +47,8 @@
 	path = OCA/account-analytic
 	url = git@github.com:OCA/account-analytic.git
 	branch = 16.0
+
+[submodule "odoo-mastercore/odoo-uruguay"]
+	path = odoo-mastercore/odoo-uruguay
+	url = git@github.com:odoo-mastercore/odoo-uruguay.git
+	branch = 16.0
