@@ -42,3 +42,8 @@
 	path = OCA/brand
 	url = git@github.com:OCA/brand.git
 	branch = 16.0
+
+[submodule "OCA/account-analytic"]
+	path = OCA/account-analytic
+	url = git@github.com:OCA/account-analytic.git
+	branch = 16.0
