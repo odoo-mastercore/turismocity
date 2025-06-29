@@ -1,2 +1,4 @@
 pdf417gen
 odoo_upgrade @ git+https://github.com/odoo/upgrade-util@master
+py_bcu
+openupgradelib
