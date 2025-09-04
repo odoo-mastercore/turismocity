@@ -52,3 +52,7 @@
 	path = odoo-mastercore/odoo-uruguay
 	url = git@github.com:odoo-mastercore/odoo-uruguay.git
 	branch = 18.0
+[submodule "odoo-mastercore/odoo-argentina-extension"]
+	path = odoo-mastercore/odoo-argentina-extension
+	url = git@github.com:odoo-mastercore/odoo-argentina-extension.git
+	branch = 18.0
