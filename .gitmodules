@@ -56,3 +56,8 @@
 	path = odoo-mastercore/odoo-argentina-extension
 	url = git@github.com:odoo-mastercore/odoo-argentina-extension.git
 	branch = 18.0
+
+[submodule "odoo-mastercore/l10n_latam_addons"]
+	path = odoo-mastercore/l10n_latam_addons
+	url = git@github.com:odoo-mastercore/l10n_latam_addons.git
+	branch = 18.0
