@@ -61,3 +61,7 @@
 	path = odoo-mastercore/l10n_latam_addons
 	url = git@github.com:odoo-mastercore/l10n_latam_addons.git
 	branch = 18.0
+[submodule "odoo-mastercore/mastercore_insight"]
+	path = odoo-mastercore/mastercore_insight
+	url = git@github.com:odoo-mastercore/mastercore_insight.git
+	branch = 18.0
